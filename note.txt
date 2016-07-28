@@ -1,0 +1,4 @@
+http://localhost:8080/Blog/index.html
+http://localhost:8080/Blog/login.jsp
+写博客的时候自动创建索引
+
